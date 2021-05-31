@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RavinderSingh
-- 👀 I’m interested in Frontend Development, Web Development
+- 👀 I’m interested in Frontend Development & Web Development
 - 🌱 I’m currently learning DSA, React, Node, DB
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/ravindersingh08/ or Email : sng.ravinder@gmail.com
