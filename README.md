@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RavinderSingh08
+- 👋 Hi, I’m @RavinderSingh
 - 👀 I’m interested in Frontend Development, Web Development
 - 🌱 I’m currently learning DSA, React, Node, DB
 - 💞️ I’m looking to collaborate on ...
