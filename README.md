@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RavinderSingh
-- 👀 I’m interested in Frontend Development & Web Development
-- 🌱 I’m currently learning DSA, React & Node
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently working as a Software Engineer - Frontend @FinBox
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/ravindersingh08/ or Email : sng.ravinder@gmail.com
 
